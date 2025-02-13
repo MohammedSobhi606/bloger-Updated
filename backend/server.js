@@ -10,7 +10,7 @@ import PostRouter from "./routes/PostRoute.js";
 import CommentRouter from "./routes/CommentRoute.js";
 
 const app = express();
-const port = 5000;
+const port = process.env.PORT || 3000;
 
 ///middleware
 app.use(express.json());
