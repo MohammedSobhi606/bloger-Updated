@@ -156,7 +156,7 @@ blog-app/
 ## Contact
 - **Author**: Mohammed Sobhi
 - **Email**: moha2000.yahoo@gmail.com
-- **GitHub**: [github.com/yourusername](https://github.com/MohammedSobhi606)
+- **GitHub**: [github.com/MohammedSobhi606](https://github.com/MohammedSobhi606)
 
 
 ---
